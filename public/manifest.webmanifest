@@ -1,0 +1,14 @@
+{
+  "name": "Fichas de entrega de veículos · Facilita",
+  "short_name": "Fichas Facilita",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFFFFF",
+  "theme_color": "#08875D",
+  "icons": [
+    { "src": "/icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

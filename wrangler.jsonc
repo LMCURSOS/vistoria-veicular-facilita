@@ -1,0 +1,11 @@
+// Publicação na Cloudflare (Workers com static assets, TEC05).
+// Só arquivos prontos: não há código rodando no servidor da Cloudflare.
+{
+  "name": "vistoria-veicular-facilita",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    // Qualquer endereço do app abre o index.html e o app mostra a tela certa.
+    "not_found_handling": "single-page-application"
+  }
+}
